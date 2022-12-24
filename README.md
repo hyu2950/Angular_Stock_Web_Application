@@ -1,6 +1,6 @@
-# Node, Angular and Bootstrap based Stock application (AWS)
+# Node, Angular and Bootstrap based Stock application (GCP)
 
-This project is a web search application. This repository only contains the source code for Angular frontend. 
+This project is a web search application. This repository only contains the source code for Angular frontend. The Node backend is present here:https://github.com/hyu2950/Node_Stock_App_Backend (also the basic template/boiler-plate-code to kickstart angular development was done with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.)
 
 <h2>Project Goals</h2>
 <ul>
